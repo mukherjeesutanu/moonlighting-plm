@@ -1,0 +1,9 @@
+{
+ "model": "esmc_300M",
+ "checkpoint": "esmc_300m",
+ "n_params": 332997184,
+ "dim": 960,
+ "seconds": 36,
+ "first_layer_index": 1,
+ "n_layers": 30
+}

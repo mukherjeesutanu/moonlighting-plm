@@ -1,0 +1,24 @@
+#!/bin/bash
+#PBS -N plm_embed
+#PBS -q gpu
+#PBS -j oe
+#PBS -l nodes=node5:ppn=24
+#PBS -l walltime=24:00:00
+# Embed all proteins with 9 pLMs on a 3-GPU node (one queue of models per GPU).
+# Weights must be pre-downloaded to ~/.cache/huggingface (compute nodes are offline).
+cd $PBS_O_WORKDIR
+export HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1 TOKENIZERS_PARALLELISM=false OMP_NUM_THREADS=8
+PY=~/envs/plm/bin/python
+
+run_queue () {   # $1 = gpu id, rest = models
+  gpu=$1; shift
+  for m in "$@"; do
+    CUDA_VISIBLE_DEVICES=$gpu $PY scripts/embed.py --model $m > logs/$m.log 2>&1 \
+      && echo "done $m" || echo "FAILED $m"
+  done
+}
+mkdir -p logs
+run_queue 0 esm2_3B   esm2_8M   esm2_35M  &
+run_queue 1 ankh_large esm2_150M esmc_300M &
+run_queue 2 prott5_xl esm2_650M esmc_600M &
+wait

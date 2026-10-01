@@ -1,0 +1,346 @@
+Entry,name,organism,category,label,p_moon
+P30041,Peroxiredoxin-6,Homo sapiens,soluble enzyme,1,0.8813565219374752
+P06733,Alpha-enolase,Homo sapiens,soluble enzyme,1,0.9606851215180561
+P13716,Delta-aminolevulinic acid dehydratase,Homo sapiens,soluble enzyme,1,0.7929885268533224
+P09960,Leukotriene A-4 hydrolase,Homo sapiens,soluble enzyme,1,0.7501702113716303
+O60568,"Multifunctional procollagen lysine hydroxylase and glycosyltransferase LH3 [Includes: Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",Homo sapiens,soluble enzyme,1,0.40957733021043347
+P00558,Phosphoglycerate kinase 1,Homo sapiens,soluble enzyme,1,0.8379245922140452
+P19971,Thymidine phosphorylase,Homo sapiens,soluble enzyme,1,0.6743835501241633
+P47992,Lymphotactin,Homo sapiens,soluble non-enzyme,1,0.19458429864820875
+P15336,Cyclic AMP-dependent transcription factor ATF-2,Homo sapiens,soluble non-enzyme,1,0.27525063962798
+P32856,Syntaxin-2,Homo sapiens,membrane,1,0.45002510690181985
+P27797,Calreticulin,Homo sapiens,soluble non-enzyme,1,0.7320945704199362
+P28482,Mitogen-activated protein kinase 1,Homo sapiens,soluble enzyme,1,0.583466133905803
+P40429,Large ribosomal subunit protein uL13,Homo sapiens,soluble non-enzyme,1,0.9037055945589374
+P07814,Bifunctional glutamate/proline--tRNA ligase,Homo sapiens,soluble enzyme,1,0.8046142527175337
+P62277,Small ribosomal subunit protein uS15,Homo sapiens,soluble non-enzyme,1,0.8850483759868549
+P62913,Large ribosomal subunit protein uL5,Homo sapiens,soluble non-enzyme,1,0.8611501780872105
+P46777,Large ribosomal subunit protein uL18,Homo sapiens,soluble non-enzyme,1,0.8588161559642973
+P62081,Small ribosomal subunit protein eS7,Homo sapiens,soluble non-enzyme,1,0.8390947164860562
+P61254,Large ribosomal subunit protein uL24,Homo sapiens,soluble non-enzyme,1,0.903557235893121
+P19338,Nucleolin,Homo sapiens,soluble non-enzyme,1,0.35713816866590326
+P62829,Large ribosomal subunit protein uL14,Homo sapiens,soluble non-enzyme,1,0.9162204941814046
+Q9H211,DNA replication factor Cdt1,Homo sapiens,soluble non-enzyme,1,0.4112332561655808
+P00374,Dihydrofolate reductase,Homo sapiens,soluble enzyme,1,0.611290152772789
+P34896,"Serine hydroxymethyltransferase, cytosolic",Homo sapiens,soluble enzyme,1,0.7803912633463101
+Q9NQX3,Gephyrin [Includes: Molybdopterin adenylyltransferase,Homo sapiens,soluble enzyme,1,0.7201809269984498
+P21399,Cytoplasmic aconitate hydratase,Homo sapiens,soluble enzyme,1,0.842709230712509
+Q9P2J5,"Leucine--tRNA ligase, cytoplasmic",Homo sapiens,soluble enzyme,1,0.7258567492273972
+P47897,Glutamine--tRNA ligase,Homo sapiens,soluble enzyme,1,0.7528158100358513
+P23381,"Tryptophan--tRNA ligase, cytoplasmic",Homo sapiens,soluble enzyme,1,0.8512550568131345
+Q8N3Y7,Epidermal retinol dehydrogenase 2,Homo sapiens,membrane,1,0.5901597421236731
+P02730,Band 3 anion transport protein,Homo sapiens,membrane,1,0.23369578162557142
+Q9Y3E5,"Peptidyl-tRNA hydrolase 2, mitochondrial",Homo sapiens,membrane,1,0.5623823913493016
+P13569,Cystic fibrosis transmembrane conductance regulator,Homo sapiens,membrane,1,0.3666145944401763
+P08183,ATP-dependent translocase ABCB1,Homo sapiens,membrane,1,0.5177738752370326
+P62263,Small ribosomal subunit protein uS11,Homo sapiens,soluble non-enzyme,1,0.853727370894517
+Q7L0Y3,tRNA methyltransferase 10 homolog C,Homo sapiens,soluble enzyme,1,0.45285297721350287
+P49407,Beta-arrestin-1,Homo sapiens,soluble non-enzyme,1,0.4926293631330635
+Q13492,Phosphatidylinositol-binding clathrin assembly protein,Homo sapiens,soluble non-enzyme,1,0.44674404725347266
+P27487,Dipeptidyl peptidase 4,Homo sapiens,membrane,1,0.4738451266498169
+Q14152,Eukaryotic translation initiation factor 3 subunit A,Homo sapiens,soluble non-enzyme,1,0.44236884333369825
+Q04637,Eukaryotic translation initiation factor 4 gamma 1,Homo sapiens,soluble non-enzyme,1,0.18849734074456087
+O15371,Eukaryotic translation initiation factor 3 subunit D,Homo sapiens,soluble non-enzyme,1,0.37909859011251157
+P13639,Elongation factor 2,Homo sapiens,soluble enzyme,1,0.7735982263361014
+Q13825,"Methylglutaconyl-CoA hydratase, mitochondrial",Homo sapiens,soluble enzyme,1,0.6239683304411385
+P42566,Epidermal growth factor receptor substrate 15,Homo sapiens,soluble non-enzyme,1,0.27468209387008463
+P09467,"Fructose-1,6-bisphosphatase 1",Homo sapiens,soluble enzyme,1,0.8198158791435792
+P21266,Glutathione S-transferase Mu 3,Homo sapiens,soluble enzyme,1,0.7464511638212208
+P41250,Glycine--tRNA ligase,Homo sapiens,soluble enzyme,1,0.7854140093127141
+P55084,"Trifunctional enzyme subunit beta, mitochondrial",Homo sapiens,soluble enzyme,1,0.6545509897870474
+Q9H8X2,Inositol-pentakisphosphate 2-kinase,Homo sapiens,soluble enzyme,1,0.48628661131814993
+Q5BJF6,Outer dense fiber protein 2,Homo sapiens,soluble non-enzyme,1,0.13274095462576224
+Q9H307,Pinin,Homo sapiens,soluble non-enzyme,1,0.21170245266870658
+P14618,Pyruvate kinase PKM,Homo sapiens,soluble enzyme,1,0.8091812229704901
+P26639,"Threonine--tRNA ligase 1, cytoplasmic",Homo sapiens,soluble enzyme,1,0.7797189190859106
+P60174,Triosephosphate isomerase,Homo sapiens,soluble enzyme,1,0.8896186417702341
+P45880,Non-selective voltage-gated ion channel VDAC2,Homo sapiens,membrane,1,0.5440746155134781
+Q9CW03,Structural maintenance of chromosomes protein 3,Mus musculus,soluble non-enzyme,1,0.28051948971318125
+P06745,Glucose-6-phosphate isomerase,Mus musculus,soluble enzyme,1,0.8850089975821858
+P35846,Folate receptor alpha,Mus musculus,soluble non-enzyme,1,0.5456017738556725
+P31230,Aminoacyl tRNA synthase complex-interacting multifunctional protein 1,Mus musculus,soluble non-enzyme,1,0.6260488480638415
+Q8R010,Aminoacyl tRNA synthase complex-interacting multifunctional protein 2,Mus musculus,soluble non-enzyme,1,0.43565262360135215
+Q9D1M4,Eukaryotic translation elongation factor 1 epsilon-1,Mus musculus,soluble non-enzyme,1,0.7223521087151525
+P42227,Signal transducer and activator of transcription 3,Mus musculus,soluble non-enzyme,1,0.38142412769139256
+P34960,Macrophage metalloelastase,Mus musculus,soluble enzyme,1,0.47244318140610364
+P17710,Hexokinase-1,Mus musculus,soluble enzyme,1,0.6483406380774007
+Q9EQQ9,Protein O-GlcNAcase,Mus musculus,soluble enzyme,1,0.3764844777216535
+P61459,Pterin-4-alpha-carbinolamine dehydratase,Rattus norvegicus,soluble enzyme,1,0.8014049985609824
+P63159,High mobility group protein B1,Rattus norvegicus,soluble non-enzyme,1,0.5625787622607927
+P17256,Mevalonate kinase,Rattus norvegicus,soluble enzyme,1,0.5941223392818927
+Q5XIM7,Lysine--tRNA ligase,Rattus norvegicus,soluble enzyme,1,0.7718937000623176
+P07335,Creatine kinase B-type,Rattus norvegicus,soluble enzyme,1,0.8442350186843584
+P08037,"Beta-1,4-galactosyltransferase 1",Bos taurus,membrane,1,0.3591221052584854
+P14755,Lambda-crystallin,Oryctolagus cuniculus,soluble enzyme,1,0.6935675499307057
+P11415,Zeta-crystallin,Cavia porcellus,soluble enzyme,1,0.7456708799792862
+Q01217,"Protein ARG5,6, mitochondrial [Cleaved into: N-acetyl-gamma-glutamyl-phosphate reductase",Saccharomyces cerevisiae,soluble enzyme,1,0.6000311362614653
+P23202,Transcriptional regulator URE2,Saccharomyces cerevisiae,soluble enzyme,1,0.4858415520362838
+P03069,General control transcription factor GCN4,Saccharomyces cerevisiae,soluble non-enzyme,1,0.3837674236807886
+P07250,Inositol polyphosphate multikinase,Saccharomyces cerevisiae,soluble enzyme,1,0.567703357297917
+P38011,Small ribosomal subunit protein RACK1,Saccharomyces cerevisiae,soluble non-enzyme,1,0.5700663374478697
+P14120,Large ribosomal subunit protein eL30,Saccharomyces cerevisiae,soluble non-enzyme,1,0.7511910221452084
+P04807,Hexokinase-2,Saccharomyces cerevisiae,soluble enzyme,1,0.5691612867784148
+P00044,Cytochrome c isoform 1,Saccharomyces cerevisiae,soluble non-enzyme,1,0.7288573175771761
+P43593,Ubiquitin carboxyl-terminal hydrolase 6,Saccharomyces cerevisiae,soluble enzyme,1,0.4869429692412826
+P28241,"Isocitrate dehydrogenase [NAD] subunit 2, mitochondrial",Saccharomyces cerevisiae,soluble enzyme,1,0.8499412512207811
+P48570,"Homocitrate synthase, cytosolic isozyme",Saccharomyces cerevisiae,soluble enzyme,1,0.6118986904110473
+P14540,Fructose-bisphosphate aldolase,Saccharomyces cerevisiae,soluble enzyme,1,0.8171305965091579
+Q12309,Pre-mRNA-splicing factor CLF1,Saccharomyces cerevisiae,soluble non-enzyme,1,0.43958676285952014
+P06168,"Ketol-acid reductoisomerase, mitochondrial",Saccharomyces cerevisiae,soluble enzyme,1,0.7865020388651672
+P39533,"Homocitrate dehydratase, mitochondrial",Saccharomyces cerevisiae,soluble enzyme,1,0.8211150889699633
+P00812,Arginase,Saccharomyces cerevisiae,soluble enzyme,1,0.7131931525723948
+P11325,"Leucine--tRNA ligase, mitochondrial",Saccharomyces cerevisiae,soluble enzyme,1,0.739117778854878
+P36024,Phosphopantothenoylcysteine decarboxylase subunit SIS2,Saccharomyces cerevisiae,soluble non-enzyme,1,0.42014278679997175
+Q08438,Phosphopantothenoylcysteine decarboxylase subunit VHS3,Saccharomyces cerevisiae,soluble non-enzyme,1,0.42146156936071344
+P0CX45,Large ribosomal subunit protein uL2A,Saccharomyces cerevisiae,soluble non-enzyme,1,0.7984104216770586
+Q3E7X9,Small ribosomal subunit protein eS28A,Saccharomyces cerevisiae,soluble non-enzyme,1,0.8951304037568739
+P33421,"Succinate dehydrogenase [ubiquinone] cytochrome b subunit, mitochondrial",Saccharomyces cerevisiae,membrane,1,0.5548413940748796
+Q06559,Small ribosomal subunit protein uS3,Drosophila melanogaster,soluble non-enzyme,1,0.8347777249462351
+Q7JXV9,Vacuolar protein-sorting-associated protein 25,Drosophila melanogaster,soluble non-enzyme,1,0.6278617301089774
+Q24314,Vacuolar protein sorting-associated protein 18 homolog,Drosophila melanogaster,soluble non-enzyme,1,0.32397249582829185
+Q9VU87,Vacuolar protein-sorting-associated protein 36,Drosophila melanogaster,soluble non-enzyme,1,0.5269674772893937
+P19889,Large ribosomal subunit protein uL10,Drosophila melanogaster,soluble enzyme,1,0.8249664533003532
+Q9V4S8,COP9 signalosome complex subunit 7,Drosophila melanogaster,soluble non-enzyme,1,0.5899424353048011
+Q9VMB4,Venom dipeptidyl peptidase 4,Drosophila melanogaster,membrane,1,0.329645599330148
+Q9VD72,Vacuolar-sorting protein SNF8,Drosophila melanogaster,soluble non-enzyme,1,0.5987659542443874
+O13289,Peroxisomal catalase,Candida albicans,soluble enzyme,1,0.5503262465804809
+P82612,Phosphoglycerate mutase,Candida albicans,soluble enzyme,1,0.8053583697602811
+Q9Y7F0,Peroxiredoxin TSA1-A,Candida albicans,soluble enzyme,1,0.897559123079956
+P41911,"Glycerol-3-phosphate dehydrogenase [NAD(+)] 2, mitochondrial",Saccharomyces cerevisiae,soluble enzyme,1,0.7457811024779153
+O74713,High-affinity glucose transporter,Candida albicans,membrane,1,0.27777977658509456
+Q93VT9,Large ribosomal subunit protein uL16z,Arabidopsis thaliana,soluble non-enzyme,1,0.896921200058998
+Q9ZVD5,Protein argonaute 4,Arabidopsis thaliana,soluble non-enzyme,1,0.4907730483526872
+Q42525,Hexokinase-1,Arabidopsis thaliana,membrane,1,0.5602715988080704
+O04019,26S proteasome regulatory subunit 6A homolog B,Arabidopsis thaliana,soluble non-enzyme,1,0.6489465785396983
+P11574,V-type proton ATPase subunit B1,Arabidopsis thaliana,soluble non-enzyme,1,0.8172195359249427
+P24058,Argininosuccinate lyase,Anas platyrhynchos,soluble enzyme,1,0.8144418691268196
+P13743,L-lactate dehydrogenase B chain,Anas platyrhynchos,soluble enzyme,1,0.7739695902413322
+P03880,Intron-encoded DNA endonuclease I-AniI,Emericella nidulans,soluble enzyme,1,0.4938175153435669
+Q28399,"Aldehyde dehydrogenase, cytosolic 1",Elephantulus edwardii,soluble enzyme,1,0.8236729343011338
+P45850,Oxalate oxidase 1,Hordeum vulgare,soluble enzyme,1,0.8716976671155034
+Q12629,Pyruvate decarboxylase,Kluyveromyces lactis,soluble enzyme,1,0.7162822614119915
+P09608,Galactokinase,Kluyveromyces lactis,soluble enzyme,1,0.6380918226974842
+P61866,Large ribosomal subunit protein uL11,Caenorhabditis elegans,soluble non-enzyme,1,0.8721431940613495
+Q383B2,Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex,Trypanosoma brucei brucei,soluble enzyme,1,0.7139113442987
+D5GCF2,DASH complex subunit ASK1,Tuber melanosporum,soluble non-enzyme,1,0.29078875219319067
+D5G7U8,phosphoadenylyl-sulfate reductase,Tuber melanosporum,soluble enzyme,1,0.5811180923980455
+Q27089,pyruvate dehydrogenase,Trichomonas vaginalis,soluble enzyme,1,0.746898949920294
+Q27820,Glyceraldehyde-3-phosphate dehydrogenase,Trichomonas vaginalis,soluble enzyme,1,0.8616205076647674
+I7MG78,Citrate synthase,Tetrahymena thermophila,soluble non-enzyme,1,0.7238890176731033
+P17506,Elongation factor 1-alpha,Xenopus laevis,soluble non-enzyme,1,0.856993199663493
+P50142,"Heat shock protein 60, mitochondrial",Ajellomyces capsulatus,soluble non-enzyme,1,0.8259179137262546
+Q8X1T3,Pyruvate carboxylase,Pichia angusta,soluble enzyme,1,0.6407921847374173
+Q92448,ATP-dependent 6-phosphofructokinase subunit alpha,Komagataella phaffii,soluble enzyme,1,0.5470556565837439
+Q95U89,merged,,soluble non-enzyme,1,0.8742906189323328
+Q9I9A9,Iota-crystallin,Lygodactylus picturatus,soluble non-enzyme,1,0.5122995425670578
+P12063,"Tyrosine--tRNA ligase, mitochondrial",Neurospora crassa,soluble enzyme,1,0.6464856642793524
+P05979,Prostaglandin G/H synthase 1,Ovis aries,membrane,1,0.4297439129990662
+P13922,Bifunctional dihydrofolate reductase-thymidylate synthase,Plasmodium falciparum,soluble enzyme,1,0.5714409607401518
+Q75NZ0,"Sulfite reductase [ferredoxin], chloroplastic",Pisum sativum,soluble enzyme,1,0.5958441493729477
+Q9UTI7,Probable thymidylate synthase,Schizosaccharomyces pombe,soluble enzyme,1,0.7243488038609096
+Q43155,"Ferredoxin-dependent glutamate synthase, chloroplastic",Spinacia oleracea,soluble enzyme,1,0.7602649561606059
+Q9GLW8,Peroxiredoxin-5,Sus scrofa,soluble enzyme,1,0.850936639409186
+P0C0V0,Periplasmic serine endoprotease DegP,Escherichia coli,soluble enzyme,1,0.5855618047048243
+P06709,Bifunctional ligase/repressor BirA,Escherichia coli,soluble enzyme,1,0.5357186413284711
+P27302,Transketolase 1,Escherichia coli,soluble enzyme,1,0.9149542514092225
+Q8XDH4,phosphoenolpyruvate--glycerone phosphotransferase,Escherichia coli O157:H7,soluble enzyme,1,0.7469631517131716
+D3QX74,deleted,,soluble non-enzyme,1,0.6269198904501171
+P60723,Large ribosomal subunit protein uL4,Escherichia coli,soluble non-enzyme,1,0.7918426103651571
+P23256,Protein MalY [Includes: Cystathionine beta-lyase MalY,Escherichia coli,soluble enzyme,1,0.720005584500599
+P0A7E9,Uridylate kinase,Escherichia coli,soluble enzyme,1,0.7892550351530186
+P23872,Acetyl esterase,Escherichia coli,soluble enzyme,1,0.5442441146675745
+P09546,Bifunctional protein PutA [Includes: Proline dehydrogenase,Escherichia coli,soluble enzyme,1,0.5671706913327798
+P27278,Trifunctional NAD biosynthesis/regulator protein NadR [Includes: Transcriptional regulator NadR; Nicotinamide mononucleotide adenylyltransferase,Escherichia coli,soluble enzyme,1,0.5282584967224736
+P68767,Cytosol aminopeptidase,Escherichia coli,soluble enzyme,1,0.7975574191722813
+P68187,Maltose/maltodextrin import ATP-binding protein MalK,Escherichia coli,soluble enzyme,1,0.7698862937407307
+P76014,"PEP-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL",Escherichia coli,soluble enzyme,1,0.6384771992872542
+P00957,Alanine--tRNA ligase,Escherichia coli,soluble enzyme,1,0.8967237678550296
+P0A7L0,Large ribosomal subunit protein uL1,Escherichia coli,soluble non-enzyme,1,0.8623425733319149
+P0A7V8,Small ribosomal subunit protein uS4,Escherichia coli,soluble non-enzyme,1,0.7574048522927959
+P0A7W7,Small ribosomal subunit protein uS8,Escherichia coli,soluble non-enzyme,1,0.5319343226799328
+P07017,Methyl-accepting chemotaxis protein II,Escherichia coli,membrane,1,0.5182247590271254
+P0ADY3,Large ribosomal subunit protein uL14,Escherichia coli,soluble non-enzyme,1,0.8285187893286075
+P0A7J3,Large ribosomal subunit protein uL10,Escherichia coli,soluble non-enzyme,1,0.5925347787265869
+P02359,Small ribosomal subunit protein uS7,Escherichia coli,soluble non-enzyme,1,0.6092434872023855
+P24228,D-alanyl-D-alanine carboxypeptidase DacB,Escherichia coli,soluble enzyme,1,0.6060541854193436
+P0A9Q7,Bifunctional aldehyde-alcohol dehydrogenase AdhE,Escherichia coli,soluble enzyme,1,0.7251678617813864
+P31658,Protein/nucleic acid deglycase 1,Escherichia coli,soluble enzyme,1,0.6465604843983441
+P0DOB5,ATP-dependent 6-phosphofructokinase,Lactococcus lactis subsp. lactis,soluble enzyme,1,0.7344425637731455
+Q07637,Pyruvate kinase,Lactococcus lactis subsp. lactis,soluble enzyme,1,0.804643678618203
+K1MKZ7,deleted,,soluble non-enzyme,1,0.8109947806855329
+D5GYN9,deleted,,soluble non-enzyme,1,0.6879378889692962
+P37887,Cysteine synthase,Bacillus subtilis,soluble enzyme,1,0.7828552822149868
+P39633,Catabolic NAD-specific glutamate dehydrogenase RocG,Bacillus subtilis,soluble enzyme,1,0.8026545736448533
+P41007,Bifunctional protein PyrR [Includes: Pyrimidine operon regulatory protein; Uracil phosphoribosyltransferase,Bacillus caldolyticus,soluble enzyme,1,0.7398449976668573
+Q6HEJ4,deleted,,soluble non-enzyme,1,0.7099731491433825
+Q9KK62,Bile salt hydrolase/transferase,Bifidobacterium longum,soluble enzyme,1,0.6564452833484592
+C2GUH0,deleted,,soluble non-enzyme,1,0.7151904748471187
+A0A0E2ZJV3,deleted,,soluble non-enzyme,1,0.8211136333906047
+P13299,Intron-associated endonuclease 1,Enterobacteria phage T4,soluble enzyme,1,0.7050080506765359
+P9WK17,Malate synthase G,Mycobacterium tuberculosis,soluble enzyme,1,0.6569916635625407
+P9WPW9,Glutamate racemase,Mycobacterium tuberculosis,soluble enzyme,1,0.7140076873417093
+P9WQN9,Diacylglycerol acyltransferase/mycolyltransferase Ag85C,Mycobacterium tuberculosis,soluble enzyme,1,0.724172112608512
+A0A0H3L8I8,deleted,,soluble non-enzyme,1,0.8003508983358698
+A0A0E0UUG2,deleted,,soluble non-enzyme,1,0.5257658152735615
+O33983,Protein Ami,Listeria monocytogenes serotype 1/2a,soluble enzyme,1,0.7261919366809748
+P44324,Aspartate ammonia-lyase,Haemophilus influenzae,soluble enzyme,1,0.9100719854354244
+P53647,Superoxide dismutase [Mn],Mycolicibacterium paratuberculosis,soluble enzyme,1,0.8102352618912985
+C4XEI3,Enolase,Mycoplasmopsis fermentans,soluble enzyme,1,0.9231817537592999
+P75391,Pyruvate dehydrogenase E1 component subunit beta,Mycoplasmoides pneumoniae,soluble enzyme,1,0.7242288518057498
+Q4A9M4,deleted,,soluble non-enzyme,1,0.869149507369363
+A9M296,Chaperone protein DnaK,Neisseria meningitidis serogroup C,soluble non-enzyme,1,0.8078342417214304
+A0A125WDU3,deleted,,soluble non-enzyme,1,0.8597029304236209
+Q1J8I3,deleted,,soluble non-enzyme,1,0.8752282852497881
+E6IYJ0,deleted,,soluble non-enzyme,1,0.6231605726540778
+E6J203,deleted,,soluble non-enzyme,1,0.8403161781654569
+Q8DNW9,Endopeptidase O,Streptococcus pneumoniae,soluble enzyme,1,0.6074567796168685
+P0A4S2,Fructose-bisphosphate aldolase,Streptococcus pneumoniae,soluble enzyme,1,0.7752174423749827
+A8AUR6,Elongation factor G,Streptococcus gordonii,soluble non-enzyme,1,0.7777034239365286
+A8AWA0,Elongation factor Tu,Streptococcus gordonii,soluble enzyme,1,0.8752161869385529
+A0A0H2UNG6,"6-phosphogluconate dehydrogenase, decarboxylating",Streptococcus pneumoniae serotype 4,soluble enzyme,1,0.7921610694060082
+Q8E4T9,deleted,,soluble non-enzyme,1,0.4768127432390753
+Q2YVT4,N-acetylmuramoyl-L-alanine amidase sle1,Staphylococcus aureus,soluble enzyme,1,0.6006556424156717
+Q9AIS0,Bifunctional autolysin,Staphylococcus caprae,soluble enzyme,1,0.650500613663478
+Q9K498,Bifunctional albaflavenone monooxygenase/terpene synthase,Streptomyces coelicolor,soluble enzyme,1,0.5613592803616049
+P0AAI4,ATP-dependent zinc metalloprotease FtsH,Shigella flexneri,membrane,1,0.6650936340753988
+P54066,Large ribosomal subunit protein eL8,Methanocaldococcus jannaschii,soluble non-enzyme,1,0.7629977667667661
+Q57872,"dCTP deaminase, dUMP-forming",Methanocaldococcus jannaschii,soluble enzyme,1,0.6065556473188889
+B1YAL1,"Fructose-1,6-bisphosphate aldolase/phosphatase",Pyrobaculum neutrophilum,soluble enzyme,1,0.3879702089050903
+Q9HI69,Glutamate formimidoyltransferase,Thermoplasma acidophilum,soluble enzyme,1,0.7966046699227247
+Q5JFD7,"Sarcosine oxidase, alpha subunit",Thermococcus kodakarensis,soluble non-enzyme,1,0.6745299257085424
+Q5JFG7,"Sarcosine oxidase, beta subunit",Thermococcus kodakarensis,soluble non-enzyme,1,0.6891106421658405
+Q7LX99,Glycogen debranching enzyme,Saccharolobus solfataricus,soluble enzyme,1,0.7523927264943372
+B9VJ59,deleted,,soluble non-enzyme,1,0.373146375847059
+P00550,PTS system mannitol-specific EIICBA component,Escherichia coli,membrane,0,0.5292412769455914
+P03004,Chromosomal replication initiator protein DnaA,Escherichia coli,soluble enzyme,0,0.5660238358750072
+P04395,DNA-3-methyladenine glycosylase 2,Escherichia coli,soluble enzyme,0,0.6539949824386825
+P0A8H3,Zinc transporter ZupT,Escherichia coli,membrane,0,0.2624431081578423
+P0AAD8,Threonine/serine transporter TdcC,Escherichia coli,membrane,0,0.24606934587686533
+P0ABI4,Magnesium transport protein CorA,Escherichia coli,membrane,0,0.4162044918729796
+P0AD99,Branched-chain amino acid permease BrnQ,Escherichia coli,membrane,0,0.38130192984011196
+P0AFJ7,Low-affinity inorganic phosphate transporter PitA,Escherichia coli,membrane,0,0.38454283979293874
+P0AFR2,C4-dicarboxylic acid transporter DauA,Escherichia coli,membrane,0,0.3627693703265321
+P0AGE4,Serine/threonine transporter SstT,Escherichia coli,membrane,0,0.30073263545462636
+P24177,Probable aminoglycoside efflux pump,Escherichia coli,membrane,0,0.5619070544246694
+P46136,Aromatic amino acid exporter YddG,Escherichia coli,membrane,0,0.3467224748845383
+P69423,Sec-independent protein translocase protein TatC,Escherichia coli,membrane,0,0.44205871159042537
+P69797,PTS system mannose-specific EIIAB component,Escherichia coli,soluble enzyme,0,0.7798739128264962
+P76630,Inner membrane protein YgaZ,Escherichia coli,membrane,0,0.334589003755079
+A1A5B4,Anoctamin-9,Homo sapiens,membrane,0,0.3792631381036508
+O00341,Excitatory amino acid transporter 5,Homo sapiens,membrane,0,0.26867461502900625
+O14804,Trace amine-associated receptor 5,Homo sapiens,membrane,0,0.3040261063213471
+O14979,Heterogeneous nuclear ribonucleoprotein D-like,Homo sapiens,soluble non-enzyme,0,0.2647821147409596
+O15400,Syntaxin-7,Homo sapiens,membrane,0,0.30980497816312763
+O43663,Protein regulator of cytokinesis 1,Homo sapiens,soluble non-enzyme,0,0.2892184840270301
+O60669,Monocarboxylate transporter 2,Homo sapiens,membrane,0,0.2687166971961924
+O75387,Large neutral amino acids transporter small subunit 3,Homo sapiens,membrane,0,0.2415619763730878
+O94811,Tubulin polymerization-promoting protein,Homo sapiens,soluble enzyme,0,0.45236272715535203
+O95232,Luc7-like protein 3,Homo sapiens,soluble non-enzyme,0,0.37494822882126966
+P04920,Anion exchange protein 2,Homo sapiens,membrane,0,0.18654384020373385
+P12314,High affinity immunoglobulin gamma Fc receptor I,Homo sapiens,membrane,0,0.2767738078985765
+P14866,Heterogeneous nuclear ribonucleoprotein L,Homo sapiens,soluble non-enzyme,0,0.27313721448989947
+P31943,Heterogeneous nuclear ribonucleoprotein H,Homo sapiens,soluble non-enzyme,0,0.31516104658353167
+P47813,"Eukaryotic translation initiation factor 1A, X-chromosomal",Homo sapiens,soluble non-enzyme,0,0.8903423594721849
+P55017,Solute carrier family 12 member 3,Homo sapiens,membrane,0,0.37573099667773413
+P62995,Transformer-2 protein homolog beta,Homo sapiens,soluble non-enzyme,0,0.2422247058079608
+Q04323,UBX domain-containing protein 1,Homo sapiens,soluble non-enzyme,0,0.2828149344602452
+Q0JRZ9,F-BAR domain only protein 2,Homo sapiens,soluble non-enzyme,0,0.4050777005422509
+Q12934,Filensin,Homo sapiens,soluble non-enzyme,0,0.2911102050557018
+Q13190,Syntaxin-5,Homo sapiens,membrane,0,0.27277137190601203
+Q13257,Mitotic spindle assembly checkpoint protein MAD2A,Homo sapiens,soluble non-enzyme,0,0.37410672229843633
+Q13325,Interferon-induced protein with tetratricopeptide repeats 5,Homo sapiens,soluble non-enzyme,0,0.4223967063199524
+Q13336,Urea transporter 1,Homo sapiens,membrane,0,0.32735050227840795
+Q13651,Interleukin-10 receptor subunit alpha,Homo sapiens,membrane,0,0.24416489206697758
+Q15386,Ubiquitin-protein ligase E3C,Homo sapiens,soluble enzyme,0,0.21751732341483251
+Q15560,Transcription elongation factor A protein 2,Homo sapiens,soluble non-enzyme,0,0.5848827217932187
+Q495M3,Proton-coupled amino acid transporter 2,Homo sapiens,membrane,0,0.18576050820822382
+Q5VZL5,Zinc finger MYM-type protein 4,Homo sapiens,soluble non-enzyme,0,0.33684892351332163
+Q86WV1,Src kinase-associated phosphoprotein 1,Homo sapiens,soluble non-enzyme,0,0.2747164218288648
+Q8N697,Solute carrier family 15 member 4,Homo sapiens,membrane,0,0.23804035780612684
+Q8NCR0,"UDP-GalNAc:beta-1,3-N-acetylgalactosaminyltransferase 2",Homo sapiens,membrane,0,0.3162154928945732
+Q8NDV3,Structural maintenance of chromosomes protein 1B,Homo sapiens,soluble non-enzyme,0,0.4571257757577854
+Q8WWY3,U4/U6 small nuclear ribonucleoprotein Prp31,Homo sapiens,soluble non-enzyme,0,0.5477974809858186
+Q969I6,Sodium-coupled neutral amino acid transporter 4,Homo sapiens,membrane,0,0.24566550548660468
+Q9C0H2,Protein tweety homolog 3,Homo sapiens,membrane,0,0.1740552226481007
+Q9GZU1,Mucolipin-1,Homo sapiens,membrane,0,0.24605477554248747
+Q9H1B5,Xylosyltransferase 2,Homo sapiens,membrane,0,0.25366671513191213
+Q9H270,Vacuolar protein sorting-associated protein 11 homolog,Homo sapiens,soluble non-enzyme,0,0.5219936237762248
+Q9H2J7,Sodium-dependent neutral amino acid transporter B(0)AT2,Homo sapiens,membrane,0,0.26925849237206867
+Q9H492,Microtubule-associated protein 1 light chain 3 alpha,Homo sapiens,soluble non-enzyme,0,0.7386382903338404
+Q9HBJ8,Collectrin,Homo sapiens,membrane,0,0.17343330725935183
+Q9NRA2,Sialin,Homo sapiens,membrane,0,0.28642111093472317
+Q9NWQ8,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1,Homo sapiens,membrane,0,0.17514162207712416
+Q9NY26,Zinc transporter ZIP1,Homo sapiens,membrane,0,0.11905585137323957
+Q9UJ71,C-type lectin domain family 4 member K,Homo sapiens,membrane,0,0.3242677247779626
+Q9Y6Y9,Lymphocyte antigen 96,Homo sapiens,soluble non-enzyme,0,0.4326370165307674
+A2A5Z6,E3 ubiquitin-protein ligase SMURF2,Mus musculus,soluble enzyme,0,0.34717368644535196
+A2AHC3,Calmodulin-regulated spectrin-associated protein 1,Mus musculus,soluble non-enzyme,0,0.28213757017630514
+A2RSY1,KAT8 regulatory NSL complex subunit 3,Mus musculus,soluble non-enzyme,0,0.32037967925065725
+P04919,Band 3 anion transport protein,Mus musculus,membrane,0,0.22870574736542726
+P47873,Interleukin-11,Mus musculus,soluble non-enzyme,0,0.2354527122007663
+P58735,Sulfate anion transporter 1,Mus musculus,membrane,0,0.1428737929749452
+P60330,Separin,Mus musculus,soluble enzyme,0,0.3311133769891102
+P70279,Surfeit locus protein 6,Mus musculus,soluble non-enzyme,0,0.24453254536440516
+Q14AT5,Anoctamin-7,Mus musculus,membrane,0,0.4054591645459059
+Q5ISE2,mRNA decay activator protein ZFP36L3,Mus musculus,membrane,0,0.549528974220813
+Q61545,RNA-binding protein EWS,Mus musculus,soluble non-enzyme,0,0.20698565671838498
+Q62193,Replication protein A 32 kDa subunit,Mus musculus,soluble non-enzyme,0,0.42886741947784757
+Q62376,U1 small nuclear ribonucleoprotein 70 kDa,Mus musculus,soluble non-enzyme,0,0.3128355114451922
+Q67BT3,Na(+)/citrate cotransporter,Mus musculus,membrane,0,0.35539466883801946
+Q6A028,Switch-associated protein 70,Mus musculus,soluble non-enzyme,0,0.31868263654756535
+Q6NVG1,Lysophospholipid acyltransferase LPCAT4,Mus musculus,membrane,0,0.33401709541616087
+Q6Q473,Calcium-activated chloride channel regulator 4A,Mus musculus,membrane,0,0.4110558984149047
+Q78KK3,Solute carrier family 22 member 18,Mus musculus,membrane,0,0.34550883761038975
+Q7TPS5,C2 domain-containing protein 5,Mus musculus,soluble non-enzyme,0,0.3465141583027992
+Q8BIF2,RNA binding protein fox-1 homolog 3,Mus musculus,soluble non-enzyme,0,0.3444526364446651
+Q8BL66,Early endosome antigen 1,Mus musculus,soluble non-enzyme,0,0.32430695824653977
+Q8C0L6,Peroxisomal N(1)-acetyl-spermine/spermidine oxidase,Mus musculus,soluble enzyme,0,0.4243583874110802
+Q8JZQ9,Eukaryotic translation initiation factor 3 subunit B,Mus musculus,soluble non-enzyme,0,0.3759089346427886
+Q8JZX4,Splicing factor 45,Mus musculus,soluble non-enzyme,0,0.23546189475936113
+Q8K273,ER membrane protein complex subunit 5,Mus musculus,membrane,0,0.22938220494152578
+Q91Z92,"Beta-1,3-galactosyltransferase 6",Mus musculus,membrane,0,0.40821789076159554
+Q920F6,Structural maintenance of chromosomes protein 1B,Mus musculus,soluble non-enzyme,0,0.4541685056224293
+Q9CZA6,Nuclear distribution protein nudE homolog 1,Mus musculus,soluble non-enzyme,0,0.2923334471690492
+Q9D7P7,Chloride intracellular channel protein 3,Mus musculus,membrane,0,0.8063563204477256
+Q9EPL0,Xylosyltransferase 2,Mus musculus,membrane,0,0.2573862602887267
+Q9EQ32,Phosphoinositide 3-kinase adapter protein 1,Mus musculus,soluble non-enzyme,0,0.24354761421760518
+Q9ESD7,Dysferlin,Mus musculus,membrane,0,0.2667934768791328
+Q9JLJ4,Very long chain fatty acid elongase 2,Mus musculus,membrane,0,0.4432398260121178
+Q9QXW9,Large neutral amino acids transporter small subunit 2,Mus musculus,membrane,0,0.289077237203741
+Q9R0Y1,Bile acid-sensitive ion channel,Mus musculus,membrane,0,0.22398368496509366
+Q9WV06,Ankyrin repeat domain-containing protein 2,Mus musculus,soluble non-enzyme,0,0.3284771443086463
+Q9Z0F3,Bcl-2-like protein 10,Mus musculus,membrane,0,0.26226607686489506
+Q9Z2E2,Methyl-CpG-binding domain protein 1,Mus musculus,soluble non-enzyme,0,0.2763842510823645
+P00724,Invertase 2,Saccharomyces cerevisiae,soluble enzyme,0,0.7205404093064828
+P06103,Eukaryotic translation initiation factor 3 subunit B,Saccharomyces cerevisiae,soluble non-enzyme,0,0.3943728330256253
+P11655,Guanine nucleotide-exchange factor SEC12,Saccharomyces cerevisiae,membrane,0,0.39803612251058995
+P11709,Nuclear fusion protein BIK1,Saccharomyces cerevisiae,soluble non-enzyme,0,0.3460519928549896
+P15380,Proline-specific permease,Saccharomyces cerevisiae,membrane,0,0.29566753312439076
+P19807,Choline transporter,Saccharomyces cerevisiae,membrane,0,0.2958175434397128
+P23585,High-affinity glucose transporter HXT2,Saccharomyces cerevisiae,membrane,0,0.378027356984354
+P25043,Proteasome subunit beta type-2,Saccharomyces cerevisiae,soluble enzyme,0,0.47273635203890363
+P25046,Mediator of RNA polymerase II transcription subunit 19,Saccharomyces cerevisiae,soluble non-enzyme,0,0.3436531157094447
+P25336,DNA mismatch repair protein MSH3,Saccharomyces cerevisiae,soluble non-enzyme,0,0.5003639457232365
+P25582,27S pre-rRNA,Saccharomyces cerevisiae,soluble enzyme,0,0.36622218305251214
+P31381,Nucleoside transporter FUN26,Saccharomyces cerevisiae,membrane,0,0.26741380786522184
+P31755,"Initiation-specific alpha-1,6-mannosyltransferase",Saccharomyces cerevisiae,membrane,0,0.3648800816819063
+P32332,Mitochondrial oxaloacetate transport protein,Saccharomyces cerevisiae,membrane,0,0.4880162379297254
+P32368,Phosphatidylinositol-3-phosphatase SAC1,Saccharomyces cerevisiae,membrane,0,0.5170664381797845
+P32585,Mediator of RNA polymerase II transcription subunit 18,Saccharomyces cerevisiae,soluble non-enzyme,0,0.3657112385728158
+P32623,Congo red hypersensitive protein 2,Saccharomyces cerevisiae,soluble enzyme,0,0.4470224447953647
+P32629,Mannan polymerase II complex ANP1 subunit,Saccharomyces cerevisiae,membrane,0,0.49741028043258845
+P32901,Peptide transporter PTR2,Saccharomyces cerevisiae,membrane,0,0.2801580095857436
+P33334,Pre-mRNA-splicing factor 8,Saccharomyces cerevisiae,soluble non-enzyme,0,0.3206277434727952
+P36062,Vacuolar amino acid transporter 3,Saccharomyces cerevisiae,membrane,0,0.17908240520905902
+P36160,Ribosome biogenesis protein RPF2,Saccharomyces cerevisiae,soluble non-enzyme,0,0.5383759980802904
+P38624,Proteasome subunit beta type-1,Saccharomyces cerevisiae,soluble enzyme,0,0.6512940139797475
+P40074,Vacuolar amino acid transporter 6,Saccharomyces cerevisiae,membrane,0,0.2492644759800105
+P42839,Low affinity vacuolar monovalent cation/H(+) antiporter,Saccharomyces cerevisiae,membrane,0,0.2905498725131779
+P47176,"Branched-chain-amino-acid aminotransferase, cytosolic",Saccharomyces cerevisiae,soluble enzyme,0,0.8111460100263024
+P53769,Pre-mRNA-splicing factor CWC24,Saccharomyces cerevisiae,soluble non-enzyme,0,0.35243167711628853
+Q02486,"ARS-binding factor 2, mitochondrial",Saccharomyces cerevisiae,soluble non-enzyme,0,0.583409658245211
+Q04067,Eukaryotic translation initiation factor 3 subunit G,Saccharomyces cerevisiae,soluble non-enzyme,0,0.2742032577768842
+Q05998,Thiamine transporter,Saccharomyces cerevisiae,membrane,0,0.3420962609104262
+Q06106,Multiple RNA-binding domain-containing protein 1,Saccharomyces cerevisiae,soluble non-enzyme,0,0.27400139022468206
+Q07824,Polyamine transporter 1,Saccharomyces cerevisiae,membrane,0,0.42244191129154834
+Q00539,Protein NAM8,Saccharomyces cerevisiae,soluble non-enzyme,0,0.32238488837248847

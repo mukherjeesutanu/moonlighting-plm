@@ -1,0 +1,9 @@
+{
+ "model": "esm2_150M",
+ "checkpoint": "facebook/esm2_t30_150M_UR50D",
+ "n_params": 148385241,
+ "dim": 640,
+ "seconds": 24,
+ "first_layer_index": 0,
+ "n_layers": 30
+}

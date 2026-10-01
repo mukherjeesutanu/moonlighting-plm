@@ -1,0 +1,11 @@
+{
+  "loaded_moonlighting": 215,
+  "loaded_nonmoonlighting": 136,
+  "removed_label_contradictions": 6,
+  "dropped_too_short": 0,
+  "needs_windowing": 24,
+  "prevalence": 0.6145,
+  "final_n": 345,
+  "n_clusters": 320,
+  "dataset_sha256_16": "114e697563d883fd"
+}

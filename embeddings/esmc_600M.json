@@ -1,0 +1,9 @@
+{
+ "model": "esmc_600M",
+ "checkpoint": "esmc_600m",
+ "n_params": 575036992,
+ "dim": 1152,
+ "seconds": 57,
+ "first_layer_index": 1,
+ "n_layers": 36
+}

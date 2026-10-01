@@ -1,0 +1,9 @@
+{
+ "model": "esm2_3B",
+ "checkpoint": "facebook/esm2_t36_3B_UR50D",
+ "n_params": 2835070881,
+ "dim": 2560,
+ "seconds": 48,
+ "first_layer_index": 0,
+ "n_layers": 36
+}

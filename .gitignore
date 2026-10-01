@@ -1,0 +1,7 @@
+# all-layer embeddings (~200 MB): regenerate with scripts/embed.py
+embeddings/layers/
+archive/
+.ipynb_checkpoints/
+__pycache__/
+logs/
+*.o[0-9]*

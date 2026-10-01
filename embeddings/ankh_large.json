@@ -1,0 +1,9 @@
+{
+ "model": "ankh_large",
+ "checkpoint": "ElnaggarLab/ankh-large",
+ "n_params": 1151707648,
+ "dim": 1536,
+ "seconds": 81,
+ "first_layer_index": 0,
+ "n_layers": 48
+}
